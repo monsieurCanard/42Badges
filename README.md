@@ -11,7 +11,7 @@ Welcome to the **42 Project Validation Badges Repository**! This repository cont
 
 - **Easy to Use**: Download the badges and display them in your repositories or on your profile. ENJOY !
 
-# Include in this repo
+## 🖼️ Previews
 <div align="center" style="display: place-content: center;">
 
 <a
