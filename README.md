@@ -1,5 +1,15 @@
-# 42_projects_badge
-42 badges for every 42's project ! ENJOY !
+# 🏅 42 Project Validation Badges
+
+Welcome to the **42 Project Validation Badges Repository**! This repository contains custom badges that you can use to showcase your 42 project achievements. Each badge represents a different type of validation, such as mandatory requirements, mandatory + bonus, or even achieving **outstanding** results!
+
+## 🌟 Features
+
+- **Badges for Project Validation**:
+  - **Mandatory Badge**: Indicates that the mandatory requirements for a project were successfully completed.
+  - **Mandatory + Bonus Badge**: For those who have completed both mandatory requirements and bonus tasks.
+  - **Outstanding Badge**: Awarded for outstanding performance and project validation.
+
+- **Easy to Use**: Download the badges and display them in your repositories or on your profile. ENJOY !
 
 # Include in this repo
 <div align="center" style="display: place-content: center;">
